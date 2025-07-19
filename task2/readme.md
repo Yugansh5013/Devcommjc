@@ -7,11 +7,11 @@ This project is a **fully offline AI chatbot** powered by [Ollama](https://ollam
 * PDF and TXT file upload + parsing
 * Real-time streaming chat
 * Clean and interactive web UI (Gradio)
-* 100% local, private, and secure
 
+* 100% local, private, and secure     
 ---
 
-## Features
+## Features                                                                                          
 
 | Feature                     | Description                                         |
 | --------------------------- | --------------------------------------------------- |
